@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
+| [3429-special-array-i](https://github.com/Rohit-061/Leetcode/tree/master/3429-special-array-i) |
 ## Matrix
 |  |
 | ------- |
