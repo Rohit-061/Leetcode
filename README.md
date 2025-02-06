@@ -112,4 +112,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/Rohit-061/Leetcode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
