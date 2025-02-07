@@ -68,6 +68,7 @@ A collection of LeetCode question.
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3451-string-compression-iii](https://github.com/Rohit-061/Leetcode/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
