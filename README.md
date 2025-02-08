@@ -64,6 +64,7 @@ A collection of LeetCode question.
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -73,6 +74,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3451-string-compression-iii](https://github.com/Rohit-061/Leetcode/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
@@ -114,11 +116,13 @@ A collection of LeetCode question.
 ## Bit Manipulation
 |  |
 | ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Counting
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Memoization
 |  |
 | ------- |
