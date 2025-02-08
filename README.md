@@ -42,6 +42,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rohit-061/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -59,12 +60,14 @@ A collection of LeetCode question.
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -138,6 +141,7 @@ A collection of LeetCode question.
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Indexed Tree
 |  |
