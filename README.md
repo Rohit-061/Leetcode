@@ -42,6 +42,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rohit-061/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode question.
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rohit-061/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Sorting
