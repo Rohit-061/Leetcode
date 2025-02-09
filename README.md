@@ -45,6 +45,7 @@ A collection of LeetCode question.
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rohit-061/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode question.
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rohit-061/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode question.
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Rohit-061/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode question.
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Memoization
 |  |
 | ------- |
