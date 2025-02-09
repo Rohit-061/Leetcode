@@ -46,6 +46,7 @@ A collection of LeetCode question.
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rohit-061/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode question.
 | [0856-consecutive-numbers-sum](https://github.com/Rohit-061/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode question.
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Sorting
