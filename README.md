@@ -66,6 +66,7 @@ A collection of LeetCode question.
 | [3435-block-placement-queries](https://github.com/Rohit-061/Leetcode/tree/master/3435-block-placement-queries) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rohit-061/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Rohit-061/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Rohit-061/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Matrix
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode question.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rohit-061/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Rohit-061/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Rohit-061/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Rohit-061/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Rohit-061/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Rohit-061/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Math
 |  |
