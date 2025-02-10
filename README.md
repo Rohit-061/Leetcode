@@ -119,6 +119,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode question.
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Rohit-061/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Rohit-061/Leetcode/tree/master/3447-clear-digits) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Binary Indexed Tree
 |  |
 | ------- |
