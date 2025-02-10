@@ -59,6 +59,7 @@ A collection of LeetCode question.
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rohit-061/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Rohit-061/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Rohit-061/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Rohit-061/Leetcode/tree/master/3429-special-array-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Enumeration
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode question.
 ## Prefix Sum
 |  |
 | ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode question.
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Rohit-061/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Rohit-061/Leetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -221,4 +225,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/Rohit-061/Leetcode/tree/master/3447-clear-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
