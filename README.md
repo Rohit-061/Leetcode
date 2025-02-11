@@ -46,6 +46,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -110,6 +111,7 @@ A collection of LeetCode question.
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Rohit-061/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Rohit-061/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
