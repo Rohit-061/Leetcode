@@ -47,6 +47,7 @@ A collection of LeetCode question.
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -82,6 +83,7 @@ A collection of LeetCode question.
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Rohit-061/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -205,16 +207,19 @@ A collection of LeetCode question.
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Rohit-061/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Rohit-061/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Rohit-061/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Two Pointers
