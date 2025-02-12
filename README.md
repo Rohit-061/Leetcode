@@ -58,6 +58,7 @@ A collection of LeetCode question.
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rohit-061/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode question.
 | [2442-number-of-arithmetic-triplets](https://github.com/Rohit-061/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode question.
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Bit Manipulation
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode question.
 | [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Rohit-061/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Rohit-061/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
