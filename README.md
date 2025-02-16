@@ -279,6 +279,7 @@ A collection of LeetCode question.
 ## Two Pointers
 |  |
 | ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rohit-061/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Tree
 |  |
@@ -321,4 +322,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/Rohit-061/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+## Linked List
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
