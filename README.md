@@ -130,6 +130,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-061/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
@@ -183,6 +184,7 @@ A collection of LeetCode question.
 ## Greedy
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -299,6 +301,7 @@ A collection of LeetCode question.
 ## Stack
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-061/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Rohit-061/Leetcode/tree/master/3447-clear-digits) |
 ## Combinatorics
@@ -339,4 +342,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
