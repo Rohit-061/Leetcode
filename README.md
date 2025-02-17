@@ -6,6 +6,7 @@ A collection of LeetCode question.
 | ------- |
 | [0684-redundant-connection](https://github.com/Rohit-061/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1558-course-schedule-iv](https://github.com/Rohit-061/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rohit-061/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -290,6 +291,7 @@ A collection of LeetCode question.
 ## Tree
 |  |
 | ------- |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -333,4 +335,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 <!---LeetCode Topics End-->
