@@ -147,6 +147,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2457-count-special-integers](https://github.com/Rohit-061/Leetcode/tree/master/2457-count-special-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Rohit-061/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Rohit-061/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode question.
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2457-count-special-integers](https://github.com/Rohit-061/Leetcode/tree/master/2457-count-special-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rohit-061/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
