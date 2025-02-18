@@ -11,6 +11,7 @@ A collection of LeetCode question.
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rohit-061/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Rohit-061/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Graph
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode question.
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/Rohit-061/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode question.
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Array
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode question.
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Rohit-061/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rohit-061/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -101,6 +105,7 @@ A collection of LeetCode question.
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rohit-061/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
