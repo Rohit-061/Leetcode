@@ -145,6 +145,7 @@ A collection of LeetCode question.
 | [1517-restore-the-array](https://github.com/Rohit-061/Leetcode/tree/master/1517-restore-the-array) |
 | [1532-reformat-the-string](https://github.com/Rohit-061/Leetcode/tree/master/1532-reformat-the-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/Rohit-061/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-061/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode question.
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/Rohit-061/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Memoization
