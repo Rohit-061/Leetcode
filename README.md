@@ -67,6 +67,7 @@ A collection of LeetCode question.
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Rohit-061/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2145-grid-game](https://github.com/Rohit-061/Leetcode/tree/master/2145-grid-game) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -107,6 +108,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Rohit-061/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2145-grid-game](https://github.com/Rohit-061/Leetcode/tree/master/2145-grid-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -164,6 +166,7 @@ A collection of LeetCode question.
 | [1517-restore-the-array](https://github.com/Rohit-061/Leetcode/tree/master/1517-restore-the-array) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Rohit-061/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2457-count-special-integers](https://github.com/Rohit-061/Leetcode/tree/master/2457-count-special-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
