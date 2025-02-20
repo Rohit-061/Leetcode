@@ -66,6 +66,7 @@ A collection of LeetCode question.
 | [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
+| [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Rohit-061/Leetcode/tree/master/2145-grid-game) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -119,6 +120,7 @@ A collection of LeetCode question.
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Rohit-061/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -148,6 +150,7 @@ A collection of LeetCode question.
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Rohit-061/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-061/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -354,6 +357,7 @@ A collection of LeetCode question.
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rohit-061/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rohit-061/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rohit-061/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Shortest Path
