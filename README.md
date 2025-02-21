@@ -54,6 +54,7 @@ A collection of LeetCode question.
 | ------- |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Rohit-061/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -167,6 +168,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1517-restore-the-array](https://github.com/Rohit-061/Leetcode/tree/master/1517-restore-the-array) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -214,6 +216,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -225,6 +228,7 @@ A collection of LeetCode question.
 ## Sorting
 |  |
 | ------- |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
