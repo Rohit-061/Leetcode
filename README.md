@@ -55,6 +55,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -113,6 +114,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -189,6 +191,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Rohit-061/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -235,6 +238,7 @@ A collection of LeetCode question.
 ## Sorting
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -402,4 +406,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
