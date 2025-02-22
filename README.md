@@ -196,6 +196,7 @@ A collection of LeetCode question.
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Rohit-061/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1103-moving-stones-until-consecutive](https://github.com/Rohit-061/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -424,4 +425,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/Rohit-061/Leetcode/tree/master/1097-stream-of-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [1103-moving-stones-until-consecutive](https://github.com/Rohit-061/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 <!---LeetCode Topics End-->
