@@ -55,6 +55,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
+| [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -220,6 +221,7 @@ A collection of LeetCode question.
 ## Greedy
 |  |
 | ------- |
+| [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -233,6 +235,7 @@ A collection of LeetCode question.
 ## Sorting
 |  |
 | ------- |
+| [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
