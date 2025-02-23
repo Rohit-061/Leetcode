@@ -59,6 +59,7 @@ A collection of LeetCode question.
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rohit-061/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -137,6 +138,7 @@ A collection of LeetCode question.
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode question.
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1097-stream-of-characters](https://github.com/Rohit-061/Leetcode/tree/master/1097-stream-of-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -254,6 +257,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
