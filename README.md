@@ -71,6 +71,7 @@ A collection of LeetCode question.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Rohit-061/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rohit-061/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1839-decode-xored-array](https://github.com/Rohit-061/Leetcode/tree/master/1839-decode-xored-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode question.
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1517-restore-the-array](https://github.com/Rohit-061/Leetcode/tree/master/1517-restore-the-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Rohit-061/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -211,6 +213,7 @@ A collection of LeetCode question.
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-moving-stones-until-consecutive](https://github.com/Rohit-061/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -234,6 +237,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2145-grid-game](https://github.com/Rohit-061/Leetcode/tree/master/2145-grid-game) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rohit-061/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
