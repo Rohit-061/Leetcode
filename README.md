@@ -140,6 +140,7 @@ A collection of LeetCode question.
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -340,6 +341,7 @@ A collection of LeetCode question.
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [1097-stream-of-characters](https://github.com/Rohit-061/Leetcode/tree/master/1097-stream-of-characters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -428,6 +430,7 @@ A collection of LeetCode question.
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Binary Tree
 |  |
@@ -457,4 +460,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1103-moving-stones-until-consecutive](https://github.com/Rohit-061/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
