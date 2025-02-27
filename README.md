@@ -60,6 +60,7 @@ A collection of LeetCode question.
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Rohit-061/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
@@ -243,6 +244,7 @@ A collection of LeetCode question.
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
 | [3435-block-placement-queries](https://github.com/Rohit-061/Leetcode/tree/master/3435-block-placement-queries) |
