@@ -70,6 +70,7 @@ A collection of LeetCode question.
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1097-stream-of-characters](https://github.com/Rohit-061/Leetcode/tree/master/1097-stream-of-characters) |
+| [1183-statistics-from-a-large-sample](https://github.com/Rohit-061/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -228,6 +229,7 @@ A collection of LeetCode question.
 | [0928-surface-area-of-3d-shapes](https://github.com/Rohit-061/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-moving-stones-until-consecutive](https://github.com/Rohit-061/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
+| [1183-statistics-from-a-large-sample](https://github.com/Rohit-061/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
@@ -482,4 +484,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1183-statistics-from-a-large-sample](https://github.com/Rohit-061/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->
