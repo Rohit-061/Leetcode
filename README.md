@@ -72,6 +72,7 @@ A collection of LeetCode question.
 | [1097-stream-of-characters](https://github.com/Rohit-061/Leetcode/tree/master/1097-stream-of-characters) |
 | [1183-statistics-from-a-large-sample](https://github.com/Rohit-061/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1184-car-pooling](https://github.com/Rohit-061/Leetcode/tree/master/1184-car-pooling) |
+| [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -250,6 +251,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
 | [3435-block-placement-queries](https://github.com/Rohit-061/Leetcode/tree/master/3435-block-placement-queries) |
@@ -493,4 +495,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1183-statistics-from-a-large-sample](https://github.com/Rohit-061/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
