@@ -110,6 +110,7 @@ A collection of LeetCode question.
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -339,6 +340,7 @@ A collection of LeetCode question.
 | [2043-cyclically-rotating-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rohit-061/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rohit-061/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Rohit-061/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -401,6 +403,7 @@ A collection of LeetCode question.
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rohit-061/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Tree
 |  |
 | ------- |
