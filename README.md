@@ -89,6 +89,7 @@ A collection of LeetCode question.
 | [1839-decode-xored-array](https://github.com/Rohit-061/Leetcode/tree/master/1839-decode-xored-array) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rohit-061/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -222,6 +223,7 @@ A collection of LeetCode question.
 | [1517-restore-the-array](https://github.com/Rohit-061/Leetcode/tree/master/1517-restore-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rohit-061/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Rohit-061/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
