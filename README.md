@@ -53,6 +53,7 @@ A collection of LeetCode question.
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Array
@@ -117,6 +118,7 @@ A collection of LeetCode question.
 | [2554-minimum-total-distance-traveled](https://github.com/Rohit-061/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rohit-061/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -151,6 +153,7 @@ A collection of LeetCode question.
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Rohit-061/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2145-grid-game](https://github.com/Rohit-061/Leetcode/tree/master/2145-grid-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rohit-061/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
@@ -212,6 +215,7 @@ A collection of LeetCode question.
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3447-clear-digits](https://github.com/Rohit-061/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Rohit-061/Leetcode/tree/master/3451-string-compression-iii) |
@@ -232,6 +236,7 @@ A collection of LeetCode question.
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2457-count-special-integers](https://github.com/Rohit-061/Leetcode/tree/master/2457-count-special-integers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Rohit-061/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rohit-061/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -293,6 +298,7 @@ A collection of LeetCode question.
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rohit-061/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
