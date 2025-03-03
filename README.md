@@ -101,6 +101,7 @@ A collection of LeetCode question.
 | [2109-find-array-given-subset-sums](https://github.com/Rohit-061/Leetcode/tree/master/2109-find-array-given-subset-sums) |
 | [2145-grid-game](https://github.com/Rohit-061/Leetcode/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rohit-061/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohit-061/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -234,6 +235,7 @@ A collection of LeetCode question.
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rohit-061/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Rohit-061/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Rohit-061/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohit-061/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2457-count-special-integers](https://github.com/Rohit-061/Leetcode/tree/master/2457-count-special-integers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Rohit-061/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -411,6 +413,7 @@ A collection of LeetCode question.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Rohit-061/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohit-061/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2429-design-a-food-rating-system](https://github.com/Rohit-061/Leetcode/tree/master/2429-design-a-food-rating-system) |
