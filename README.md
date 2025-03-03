@@ -260,6 +260,7 @@ A collection of LeetCode question.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Rohit-061/Leetcode/tree/master/2266-minimum-cost-to-set-cooking-time) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Rohit-061/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode question.
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rohit-061/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Rohit-061/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
