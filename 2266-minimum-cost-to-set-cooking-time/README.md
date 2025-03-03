@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-to-set-cooking-time">2266. Minimum Cost to Set Cooking Time</a></h2><h3>Medium</h3><hr><p>A generic microwave supports cooking times for:</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-to-set-cooking-time">Minimum Cost to Set Cooking Time</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>A generic microwave supports cooking times for:</p>
 
 <ul>
 	<li>at least <code>1</code> second.</li>
