@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic">3229. Minimum Cost to Make Array Equalindromic</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> having length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic">Minimum Cost to Make Array Equalindromic</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> having length <code>n</code>.</p>
 
 <p>You are allowed to perform a special move <strong>any</strong> number of times (<strong>including zero</strong>) on <code>nums</code>. In one <strong>special</strong> <strong>move</strong> you perform the following steps <strong>in order</strong>:</p>
 
