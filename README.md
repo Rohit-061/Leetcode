@@ -126,6 +126,7 @@ A collection of LeetCode question.
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rohit-061/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Rohit-061/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rohit-061/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode question.
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rohit-061/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rohit-061/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode question.
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rohit-061/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rohit-061/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rohit-061/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -272,6 +275,7 @@ A collection of LeetCode question.
 | [2457-count-special-integers](https://github.com/Rohit-061/Leetcode/tree/master/2457-count-special-integers) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rohit-061/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rohit-061/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Enumeration
