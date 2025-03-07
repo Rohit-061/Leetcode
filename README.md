@@ -276,6 +276,7 @@ A collection of LeetCode question.
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2457-count-special-integers](https://github.com/Rohit-061/Leetcode/tree/master/2457-count-special-integers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Rohit-061/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rohit-061/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rohit-061/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -506,6 +507,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Rohit-061/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Data Stream
 |  |
 | ------- |
