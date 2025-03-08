@@ -228,6 +228,7 @@ A collection of LeetCode question.
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-061/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3447-clear-digits](https://github.com/Rohit-061/Leetcode/tree/master/3447-clear-digits) |
@@ -553,6 +554,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-061/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Rohit-061/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Trie
