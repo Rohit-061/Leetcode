@@ -60,6 +60,7 @@ A collection of LeetCode question.
 ## Array
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Rohit-061/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -174,6 +175,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Rohit-061/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -323,6 +325,7 @@ A collection of LeetCode question.
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -342,6 +345,7 @@ A collection of LeetCode question.
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -447,6 +451,7 @@ A collection of LeetCode question.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1184-car-pooling](https://github.com/Rohit-061/Leetcode/tree/master/1184-car-pooling) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -567,6 +572,7 @@ A collection of LeetCode question.
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-061/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
