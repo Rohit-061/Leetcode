@@ -152,6 +152,7 @@ A collection of LeetCode question.
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rohit-061/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Rohit-061/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Rohit-061/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -570,6 +571,7 @@ A collection of LeetCode question.
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-061/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Rohit-061/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Trie
 |  |
 | ------- |
