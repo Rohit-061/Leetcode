@@ -126,6 +126,7 @@ A collection of LeetCode question.
 | [2553-total-cost-to-hire-k-workers](https://github.com/Rohit-061/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Rohit-061/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Rohit-061/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rohit-061/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
@@ -337,6 +338,7 @@ A collection of LeetCode question.
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohit-061/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Rohit-061/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rohit-061/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/Rohit-061/Leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -468,6 +470,7 @@ A collection of LeetCode question.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohit-061/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Rohit-061/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Rohit-061/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Rohit-061/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rohit-061/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
