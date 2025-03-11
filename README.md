@@ -241,6 +241,7 @@ A collection of LeetCode question.
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-061/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
+| [3195-separate-black-and-white-balls](https://github.com/Rohit-061/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rohit-061/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3447-clear-digits](https://github.com/Rohit-061/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Rohit-061/Leetcode/tree/master/3451-string-compression-iii) |
@@ -343,6 +344,7 @@ A collection of LeetCode question.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohit-061/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rohit-061/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3195-separate-black-and-white-balls](https://github.com/Rohit-061/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/Rohit-061/Leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rohit-061/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -495,6 +497,7 @@ A collection of LeetCode question.
 | [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Rohit-061/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rohit-061/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3195-separate-black-and-white-balls](https://github.com/Rohit-061/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
 |  |
 | ------- |
