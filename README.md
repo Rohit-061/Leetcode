@@ -122,6 +122,7 @@ A collection of LeetCode question.
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Rohit-061/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohit-061/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -409,6 +410,7 @@ A collection of LeetCode question.
 | [2308-divide-array-into-equal-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Rohit-061/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rohit-061/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -618,6 +620,7 @@ A collection of LeetCode question.
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohit-061/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-061/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Rohit-061/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Rohit-061/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
