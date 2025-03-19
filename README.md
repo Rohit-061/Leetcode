@@ -162,6 +162,7 @@ A collection of LeetCode question.
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rohit-061/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Rohit-061/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Rohit-061/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Rohit-061/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
@@ -350,6 +351,7 @@ A collection of LeetCode question.
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rohit-061/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Rohit-061/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode question.
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rohit-061/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
@@ -627,6 +630,7 @@ A collection of LeetCode question.
 | [2478-longest-nice-subarray](https://github.com/Rohit-061/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Rohit-061/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rohit-061/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
@@ -658,4 +662,8 @@ A collection of LeetCode question.
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Rohit-061/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
