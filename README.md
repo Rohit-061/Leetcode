@@ -6,6 +6,7 @@ A collection of LeetCode question.
 | ------- |
 | [0684-redundant-connection](https://github.com/Rohit-061/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -541,6 +542,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -610,6 +612,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
