@@ -27,6 +27,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [1891-count-pairs-of-nodes](https://github.com/Rohit-061/Leetcode/tree/master/1891-count-pairs-of-nodes) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit-061/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rohit-061/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -38,6 +39,7 @@ A collection of LeetCode question.
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Rohit-061/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit-061/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rohit-061/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode question.
 | [2109-find-array-given-subset-sums](https://github.com/Rohit-061/Leetcode/tree/master/2109-find-array-given-subset-sums) |
 | [2145-grid-game](https://github.com/Rohit-061/Leetcode/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit-061/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rohit-061/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohit-061/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rohit-061/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -212,6 +215,7 @@ A collection of LeetCode question.
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rohit-061/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit-061/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -260,6 +264,7 @@ A collection of LeetCode question.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-061/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit-061/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Rohit-061/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-061/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
