@@ -17,6 +17,7 @@ A collection of LeetCode question.
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rohit-061/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Rohit-061/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Graph
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode question.
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rohit-061/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/Rohit-061/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
@@ -51,6 +53,7 @@ A collection of LeetCode question.
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rohit-061/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode question.
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rohit-061/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Array
 |  |
