@@ -166,6 +166,7 @@ A collection of LeetCode question.
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Rohit-061/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Rohit-061/Leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Rohit-061/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3435-block-placement-queries](https://github.com/Rohit-061/Leetcode/tree/master/3435-block-placement-queries) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode question.
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rohit-061/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3430-count-days-without-meetings](https://github.com/Rohit-061/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Bit Manipulation
 |  |
 | ------- |
