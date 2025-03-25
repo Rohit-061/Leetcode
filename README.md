@@ -176,6 +176,7 @@ A collection of LeetCode question.
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Rohit-061/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rohit-061/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode question.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3430-count-days-without-meetings](https://github.com/Rohit-061/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rohit-061/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
 | ------- |
