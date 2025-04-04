@@ -9,6 +9,7 @@ A collection of LeetCode question.
 | [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-061/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Rohit-061/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -49,6 +50,7 @@ A collection of LeetCode question.
 | [0684-redundant-connection](https://github.com/Rohit-061/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [1188-brace-expansion-ii](https://github.com/Rohit-061/Leetcode/tree/master/1188-brace-expansion-ii) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-061/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1558-course-schedule-iv](https://github.com/Rohit-061/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -221,6 +223,7 @@ A collection of LeetCode question.
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-061/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohit-061/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -594,6 +597,7 @@ A collection of LeetCode question.
 | [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-061/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -669,6 +673,7 @@ A collection of LeetCode question.
 | [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Rohit-061/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-061/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rohit-061/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
