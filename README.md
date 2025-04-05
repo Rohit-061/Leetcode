@@ -76,6 +76,7 @@ A collection of LeetCode question.
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -304,6 +305,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -370,6 +372,7 @@ A collection of LeetCode question.
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rohit-061/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -386,6 +389,7 @@ A collection of LeetCode question.
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1184-car-pooling](https://github.com/Rohit-061/Leetcode/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -401,6 +405,7 @@ A collection of LeetCode question.
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Rohit-061/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
