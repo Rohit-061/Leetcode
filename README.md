@@ -79,6 +79,7 @@ A collection of LeetCode question.
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Rohit-061/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -373,6 +374,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rohit-061/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
