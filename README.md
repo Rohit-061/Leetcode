@@ -346,6 +346,7 @@ A collection of LeetCode question.
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rohit-061/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Rohit-061/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rohit-061/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Rohit-061/Leetcode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Rohit-061/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -743,6 +744,7 @@ A collection of LeetCode question.
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Rohit-061/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/Rohit-061/Leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
