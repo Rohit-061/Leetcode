@@ -156,6 +156,7 @@ A collection of LeetCode question.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rohit-061/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-061/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohit-061/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rohit-061/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Rohit-061/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Rohit-061/Leetcode/tree/master/2690-house-robber-iv) |
@@ -253,6 +254,7 @@ A collection of LeetCode question.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rohit-061/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rohit-061/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rohit-061/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -715,6 +717,7 @@ A collection of LeetCode question.
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-061/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Rohit-061/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Rohit-061/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
