@@ -283,6 +283,7 @@ A collection of LeetCode question.
 | [1197-parsing-a-boolean-expression](https://github.com/Rohit-061/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Rohit-061/Leetcode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohit-061/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/Rohit-061/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rohit-061/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1517-restore-the-array](https://github.com/Rohit-061/Leetcode/tree/master/1517-restore-the-array) |
 | [1532-reformat-the-string](https://github.com/Rohit-061/Leetcode/tree/master/1532-reformat-the-string) |
@@ -756,4 +757,16 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Rohit-061/Leetcode/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Rohit-061/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Rohit-061/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
