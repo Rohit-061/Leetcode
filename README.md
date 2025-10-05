@@ -276,6 +276,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-061/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -640,6 +641,7 @@ A collection of LeetCode question.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/Rohit-061/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1188-brace-expansion-ii](https://github.com/Rohit-061/Leetcode/tree/master/1188-brace-expansion-ii) |
