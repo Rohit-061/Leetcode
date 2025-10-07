@@ -117,6 +117,7 @@ A collection of LeetCode question.
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Rohit-061/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rohit-061/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohit-061/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode question.
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohit-061/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohit-061/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rohit-061/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Rohit-061/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -402,6 +404,7 @@ A collection of LeetCode question.
 | [0907-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rohit-061/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1891-count-pairs-of-nodes](https://github.com/Rohit-061/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-061/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -440,6 +443,7 @@ A collection of LeetCode question.
 | [1304-longest-happy-string](https://github.com/Rohit-061/Leetcode/tree/master/1304-longest-happy-string) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -590,6 +594,7 @@ A collection of LeetCode question.
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Rohit-061/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rohit-061/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohit-061/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
