@@ -86,6 +86,7 @@ A collection of LeetCode question.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/Rohit-061/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -232,6 +233,7 @@ A collection of LeetCode question.
 | [0001-two-sum](https://github.com/Rohit-061/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-061/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -656,6 +658,7 @@ A collection of LeetCode question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Rohit-061/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Rohit-061/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1188-brace-expansion-ii](https://github.com/Rohit-061/Leetcode/tree/master/1188-brace-expansion-ii) |
@@ -729,6 +732,7 @@ A collection of LeetCode question.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Rohit-061/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit-061/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Rohit-061/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
