@@ -289,6 +289,7 @@ A collection of LeetCode question.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-061/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
+| [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -439,6 +440,7 @@ A collection of LeetCode question.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Rohit-061/Leetcode/tree/master/0670-maximum-swap) |
@@ -662,6 +664,7 @@ A collection of LeetCode question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Rohit-061/Leetcode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Rohit-061/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rohit-061/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -738,6 +741,7 @@ A collection of LeetCode question.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rohit-061/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Rohit-061/Leetcode/tree/master/1002-maximum-width-ramp) |
