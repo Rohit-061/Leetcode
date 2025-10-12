@@ -4,6 +4,7 @@ A collection of LeetCode question.
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/Rohit-061/Leetcode/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
@@ -646,6 +647,7 @@ A collection of LeetCode question.
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -663,6 +665,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Rohit-061/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -730,6 +733,7 @@ A collection of LeetCode question.
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
