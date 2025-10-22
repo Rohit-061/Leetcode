@@ -220,6 +220,7 @@ A collection of LeetCode question.
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Rohit-061/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohit-061/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Rohit-061/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rohit-061/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
@@ -437,6 +438,7 @@ A collection of LeetCode question.
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/Rohit-061/Leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
 | [3435-block-placement-queries](https://github.com/Rohit-061/Leetcode/tree/master/3435-block-placement-queries) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohit-061/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Rohit-061/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode question.
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohit-061/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Rohit-061/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -520,6 +523,7 @@ A collection of LeetCode question.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rohit-061/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rohit-061/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3430-count-days-without-meetings](https://github.com/Rohit-061/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohit-061/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rohit-061/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
@@ -806,6 +810,7 @@ A collection of LeetCode question.
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohit-061/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Rohit-061/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rohit-061/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohit-061/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Trie
 |  |
 | ------- |
