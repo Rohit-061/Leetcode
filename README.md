@@ -95,6 +95,7 @@ A collection of LeetCode question.
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-061/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Rohit-061/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rohit-061/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohit-061/Leetcode/tree/master/0035-search-insert-position) |
@@ -497,6 +498,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rohit-061/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rohit-061/Leetcode/tree/master/0016-3sum-closest) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
@@ -659,6 +661,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rohit-061/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Rohit-061/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
