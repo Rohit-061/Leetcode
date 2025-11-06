@@ -103,6 +103,7 @@ A collection of LeetCode question.
 | [0035-search-insert-position](https://github.com/Rohit-061/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -503,6 +504,7 @@ A collection of LeetCode question.
 | ------- |
 | [0015-3sum](https://github.com/Rohit-061/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rohit-061/Leetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
@@ -668,6 +670,7 @@ A collection of LeetCode question.
 | [0016-3sum-closest](https://github.com/Rohit-061/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0908-middle-of-the-linked-list) |
