@@ -790,6 +790,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohit-061/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -874,6 +875,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohit-061/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rohit-061/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Rohit-061/Leetcode/tree/master/2050-count-good-numbers) |
