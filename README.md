@@ -395,6 +395,7 @@ A collection of LeetCode question.
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Rohit-061/Leetcode/tree/master/0670-maximum-swap) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Rohit-061/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0856-consecutive-numbers-sum](https://github.com/Rohit-061/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rohit-061/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -548,6 +549,7 @@ A collection of LeetCode question.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Rohit-061/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1839-decode-xored-array](https://github.com/Rohit-061/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
@@ -876,6 +878,7 @@ A collection of LeetCode question.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohit-061/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Rohit-061/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rohit-061/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Rohit-061/Leetcode/tree/master/2050-count-good-numbers) |
