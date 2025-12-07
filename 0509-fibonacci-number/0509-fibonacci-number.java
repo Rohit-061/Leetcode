@@ -17,7 +17,7 @@ class Solution {
         if (ans[n]!=-1){
             return ans[n];
         }
-        ans[n] = fib(n-1) + fib(n-2);
+        ans[n] = recur(n-1,ans) + recur(n-2,ans);
         return ans[n];
     }
 }
