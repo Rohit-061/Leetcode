@@ -359,6 +359,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -394,6 +395,7 @@ A collection of LeetCode question.
 | [0002-add-two-numbers](https://github.com/Rohit-061/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohit-061/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/Rohit-061/Leetcode/tree/master/0670-maximum-swap) |
@@ -580,6 +582,7 @@ A collection of LeetCode question.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 ## Game Theory
