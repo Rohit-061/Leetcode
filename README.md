@@ -597,6 +597,7 @@ A collection of LeetCode question.
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/Rohit-061/Leetcode/tree/master/0183-customers-who-never-order) |
 | [1877-find-followers-count](https://github.com/Rohit-061/Leetcode/tree/master/1877-find-followers-count) |
 ## Simulation
 |  |
