@@ -320,6 +320,7 @@ A collection of LeetCode question.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-061/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rohit-061/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
@@ -693,6 +694,7 @@ A collection of LeetCode question.
 | [0015-3sum](https://github.com/Rohit-061/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rohit-061/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
@@ -908,6 +910,7 @@ A collection of LeetCode question.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1508-longest-happy-prefix](https://github.com/Rohit-061/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
