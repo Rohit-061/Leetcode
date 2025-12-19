@@ -422,6 +422,7 @@ A collection of LeetCode question.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rohit-061/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Rohit-061/Leetcode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Rohit-061/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2413-smallest-even-multiple](https://github.com/Rohit-061/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Rohit-061/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -776,6 +777,7 @@ A collection of LeetCode question.
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/Rohit-061/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Rohit-061/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rohit-061/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Rohit-061/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
