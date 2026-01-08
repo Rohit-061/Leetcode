@@ -112,6 +112,7 @@ A collection of LeetCode question.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit-061/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit-061/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rohit-061/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rohit-061/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -380,6 +381,7 @@ A collection of LeetCode question.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit-061/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit-061/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rohit-061/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rohit-061/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -465,6 +467,7 @@ A collection of LeetCode question.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohit-061/Leetcode/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Rohit-061/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
