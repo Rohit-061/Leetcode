@@ -626,6 +626,7 @@ A collection of LeetCode question.
 | [0183-customers-who-never-order](https://github.com/Rohit-061/Leetcode/tree/master/0183-customers-who-never-order) |
 | [1164-product-price-at-a-given-date](https://github.com/Rohit-061/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1877-find-followers-count](https://github.com/Rohit-061/Leetcode/tree/master/1877-find-followers-count) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rohit-061/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Simulation
 |  |
 | ------- |
