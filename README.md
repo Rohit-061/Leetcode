@@ -626,6 +626,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Rohit-061/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Rohit-061/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1068-product-sales-analysis-i](https://github.com/Rohit-061/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Rohit-061/Leetcode/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Rohit-061/Leetcode/tree/master/1164-product-price-at-a-given-date) |
