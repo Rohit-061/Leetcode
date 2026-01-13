@@ -334,6 +334,7 @@ A collection of LeetCode question.
 | [0058-length-of-last-word](https://github.com/Rohit-061/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -388,6 +389,7 @@ A collection of LeetCode question.
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rohit-061/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
