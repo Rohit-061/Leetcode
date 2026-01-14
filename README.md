@@ -104,6 +104,7 @@ A collection of LeetCode question.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohit-061/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Rohit-061/Leetcode/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode question.
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
@@ -379,6 +381,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Rohit-061/Leetcode/tree/master/0120-triangle) |
