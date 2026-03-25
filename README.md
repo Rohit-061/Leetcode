@@ -117,6 +117,7 @@ A collection of LeetCode question.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit-061/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit-061/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Rohit-061/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rohit-061/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rohit-061/Leetcode/tree/master/0322-coin-change) |
@@ -259,6 +260,7 @@ A collection of LeetCode question.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/Rohit-061/Leetcode/tree/master/0221-maximal-square) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rohit-061/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -395,6 +397,7 @@ A collection of LeetCode question.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit-061/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit-061/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0221-maximal-square](https://github.com/Rohit-061/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rohit-061/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rohit-061/Leetcode/tree/master/0322-coin-change) |
