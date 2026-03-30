@@ -146,6 +146,7 @@ A collection of LeetCode question.
 | [0927-sum-of-subsequence-widths](https://github.com/Rohit-061/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rohit-061/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0931-minimum-falling-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rohit-061/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0948-sort-an-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rohit-061/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -266,6 +267,7 @@ A collection of LeetCode question.
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rohit-061/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [0931-minimum-falling-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rohit-061/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -414,6 +416,7 @@ A collection of LeetCode question.
 | [0746-min-cost-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rohit-061/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rohit-061/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
