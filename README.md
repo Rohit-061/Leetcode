@@ -116,6 +116,7 @@ A collection of LeetCode question.
 | [0120-triangle](https://github.com/Rohit-061/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit-061/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit-061/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Rohit-061/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Rohit-061/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Rohit-061/Leetcode/tree/master/0221-maximal-square) |
@@ -539,6 +540,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit-061/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Rohit-061/Leetcode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
