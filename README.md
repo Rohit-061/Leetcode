@@ -452,6 +452,7 @@ A collection of LeetCode question.
 | [0009-palindrome-number](https://github.com/Rohit-061/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Rohit-061/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/Rohit-061/Leetcode/tree/master/0670-maximum-swap) |
@@ -625,6 +626,7 @@ A collection of LeetCode question.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rohit-061/Leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rohit-061/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1839-decode-xored-array](https://github.com/Rohit-061/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -979,6 +981,7 @@ A collection of LeetCode question.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohit-061/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Rohit-061/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rohit-061/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rohit-061/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
