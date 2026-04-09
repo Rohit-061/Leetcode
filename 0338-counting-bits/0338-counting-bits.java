@@ -4,10 +4,11 @@ class Solution {
         for(int i=0;i<=n;i++){
             ans[i] = solve(i);
         }
+
         return ans;
     }
     public int solve(int n){
-        int count=0;
+        int count = 0;
         while(n!=0){
             n = n & (n-1);
             count++;
