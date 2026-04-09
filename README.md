@@ -100,6 +100,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-061/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Rohit-061/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rohit-061/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rohit-061/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-061/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Rohit-061/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-061/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
@@ -967,6 +969,7 @@ A collection of LeetCode question.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rohit-061/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1097-stream-of-characters](https://github.com/Rohit-061/Leetcode/tree/master/1097-stream-of-characters) |
 ## Brainteaser
 |  |
