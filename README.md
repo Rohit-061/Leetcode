@@ -113,6 +113,7 @@ A collection of LeetCode question.
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rohit-061/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Rohit-061/Leetcode/tree/master/0120-triangle) |
@@ -846,6 +847,7 @@ A collection of LeetCode question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohit-061/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rohit-061/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Rohit-061/Leetcode/tree/master/0155-min-stack) |
@@ -952,6 +954,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohit-061/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rohit-061/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/Rohit-061/Leetcode/tree/master/0853-car-fleet) |
