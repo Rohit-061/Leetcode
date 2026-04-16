@@ -240,6 +240,7 @@ A collection of LeetCode question.
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rohit-061/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Rohit-061/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rohit-061/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Rohit-061/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rohit-061/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/Rohit-061/Leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -346,6 +347,7 @@ A collection of LeetCode question.
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rohit-061/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rohit-061/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rohit-061/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rohit-061/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rohit-061/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rohit-061/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Rohit-061/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -675,6 +677,7 @@ A collection of LeetCode question.
 | [2427-first-letter-to-appear-twice](https://github.com/Rohit-061/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-061/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rohit-061/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Memoization
 |  |
 | ------- |
