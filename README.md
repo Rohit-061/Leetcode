@@ -367,6 +367,7 @@ A collection of LeetCode question.
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rohit-061/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -469,6 +470,7 @@ A collection of LeetCode question.
 | [0002-add-two-numbers](https://github.com/Rohit-061/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohit-061/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Rohit-061/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
@@ -648,6 +650,7 @@ A collection of LeetCode question.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Rohit-061/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rohit-061/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Rohit-061/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -708,6 +711,7 @@ A collection of LeetCode question.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Rohit-061/Leetcode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Rohit-061/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1184-car-pooling](https://github.com/Rohit-061/Leetcode/tree/master/1184-car-pooling) |
