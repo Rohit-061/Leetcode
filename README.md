@@ -110,6 +110,7 @@ A collection of LeetCode question.
 | [0036-valid-sudoku](https://github.com/Rohit-061/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rohit-061/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rohit-061/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Rohit-061/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
@@ -417,6 +418,7 @@ A collection of LeetCode question.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohit-061/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rohit-061/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
@@ -745,6 +747,7 @@ A collection of LeetCode question.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rohit-061/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Rohit-061/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
