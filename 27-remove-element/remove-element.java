@@ -5,6 +5,6 @@ class Solution {
             if (num != val)
             nums[i++] = num;
         }
-    return i;
+        return i;
     }
 }
