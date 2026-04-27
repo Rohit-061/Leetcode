@@ -126,6 +126,7 @@ A collection of LeetCode question.
 | [0136-single-number](https://github.com/Rohit-061/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rohit-061/Leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Rohit-061/Leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohit-061/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Rohit-061/Leetcode/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/Rohit-061/Leetcode/tree/master/0260-single-number-iii) |
@@ -526,6 +527,7 @@ A collection of LeetCode question.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohit-061/Leetcode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohit-061/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -552,6 +554,7 @@ A collection of LeetCode question.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohit-061/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit-061/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rohit-061/Leetcode/tree/master/0724-find-pivot-index) |
@@ -995,6 +998,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-061/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohit-061/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohit-061/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
