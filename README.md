@@ -315,6 +315,7 @@ A collection of LeetCode question.
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-061/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit-061/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -379,6 +380,7 @@ A collection of LeetCode question.
 | [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode question.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-061/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohit-061/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohit-061/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
