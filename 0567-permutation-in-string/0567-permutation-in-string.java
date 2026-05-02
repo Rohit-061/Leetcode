@@ -6,15 +6,17 @@ class Solution {
             return false;
         }
         int[] arr1 = new int[26];
-        
+        int[] arr2 = new int[26];
         for(int i=0;i<n;i++){
             arr1[s1.charAt(i) - 'a']++;
+            arr2[s2.charAt(i) - 'a']++;
         }
-        for(int i=0;i<=m-n;i++){
-            int[] arr2 = new int[26];
-            for(int j=0;j<n;j++){
-                arr2[s2.charAt(i+j) - 'a']++;
-            }
+        if(isMatched(arr1,arr2)){
+            return true;
+        }
+        for(int i=1;i<=m-n;i++){
+            arr2[s2.charAt(i-1) - 'a']--;
+            arr2[s2.charAt(i+n-1) - 'a']++;
             if(isMatched(arr1,arr2)){
                 return true;
             }
