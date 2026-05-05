@@ -9,7 +9,7 @@ class Solution {
                 count++;
                 p1++;
                 p2++;
-            }else if (s[p2]<g[p1]){
+            }else {
                 p2++;
             }
         }
