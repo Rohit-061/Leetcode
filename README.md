@@ -385,6 +385,7 @@ A collection of LeetCode question.
 | [0058-length-of-last-word](https://github.com/Rohit-061/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -449,6 +450,7 @@ A collection of LeetCode question.
 | [0338-counting-bits](https://github.com/Rohit-061/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit-061/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
@@ -845,6 +847,7 @@ A collection of LeetCode question.
 | [0141-linked-list-cycle](https://github.com/Rohit-061/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-061/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Rohit-061/Leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rohit-061/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Rohit-061/Leetcode/tree/master/0567-permutation-in-string) |
