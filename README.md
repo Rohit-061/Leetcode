@@ -514,6 +514,7 @@ A collection of LeetCode question.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Rohit-061/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rohit-061/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Rohit-061/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Rohit-061/Leetcode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Rohit-061/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2413-smallest-even-multiple](https://github.com/Rohit-061/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -749,6 +750,7 @@ A collection of LeetCode question.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-061/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Rohit-061/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rohit-061/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
