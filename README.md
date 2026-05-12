@@ -234,6 +234,7 @@ A collection of LeetCode question.
 | [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Rohit-061/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Rohit-061/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rohit-061/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -753,6 +754,7 @@ A collection of LeetCode question.
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Rohit-061/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rohit-061/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rohit-061/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Rohit-061/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
