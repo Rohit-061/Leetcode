@@ -233,6 +233,7 @@ A collection of LeetCode question.
 | [2478-longest-nice-subarray](https://github.com/Rohit-061/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohit-061/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2540-minimum-common-value](https://github.com/Rohit-061/Leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Rohit-061/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -363,6 +364,7 @@ A collection of LeetCode question.
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rohit-061/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Rohit-061/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2540-minimum-common-value](https://github.com/Rohit-061/Leetcode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit-061/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Rohit-061/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rohit-061/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -562,6 +564,7 @@ A collection of LeetCode question.
 | [1891-count-pairs-of-nodes](https://github.com/Rohit-061/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rohit-061/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
+| [2540-minimum-common-value](https://github.com/Rohit-061/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-061/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rohit-061/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rohit-061/Leetcode/tree/master/2690-house-robber-iv) |
@@ -867,6 +870,7 @@ A collection of LeetCode question.
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rohit-061/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rohit-061/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohit-061/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2540-minimum-common-value](https://github.com/Rohit-061/Leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Rohit-061/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rohit-061/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
