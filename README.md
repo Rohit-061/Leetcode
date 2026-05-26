@@ -324,6 +324,7 @@ A collection of LeetCode question.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Rohit-061/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-061/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Rohit-061/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Rohit-061/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -392,6 +393,7 @@ A collection of LeetCode question.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rohit-061/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Rohit-061/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Rohit-061/Leetcode/tree/master/0402-remove-k-digits) |
@@ -646,6 +648,7 @@ A collection of LeetCode question.
 | [0075-sort-colors](https://github.com/Rohit-061/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Rohit-061/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit-061/Leetcode/tree/master/0435-non-overlapping-intervals) |
