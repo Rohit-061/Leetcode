@@ -10,8 +10,8 @@ class Solution {
                 down = up+1;
             }
         }
-        int res = Math.max(up,down);
-        return res;
+       
+        return Math.max(up,down);
 
     }
 }
