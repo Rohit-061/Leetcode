@@ -199,6 +199,7 @@ A collection of LeetCode question.
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rohit-061/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1891-count-pairs-of-nodes](https://github.com/Rohit-061/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1975-maximum-matrix-sum](https://github.com/Rohit-061/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -519,6 +520,7 @@ A collection of LeetCode question.
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-061/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rohit-061/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Rohit-061/Leetcode/tree/master/2050-count-good-numbers) |
@@ -544,6 +546,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Rohit-061/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Rohit-061/Leetcode/tree/master/2266-minimum-cost-to-set-cooking-time) |
@@ -706,6 +709,7 @@ A collection of LeetCode question.
 | [0338-counting-bits](https://github.com/Rohit-061/Leetcode/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rohit-061/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1839-decode-xored-array](https://github.com/Rohit-061/Leetcode/tree/master/1839-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/Rohit-061/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -945,6 +949,7 @@ A collection of LeetCode question.
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Rohit-061/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Radix Sort
@@ -981,6 +986,7 @@ A collection of LeetCode question.
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rohit-061/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rohit-061/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rohit-061/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Rohit-061/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
