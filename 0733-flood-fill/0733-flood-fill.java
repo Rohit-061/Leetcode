@@ -2,20 +2,27 @@ class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int prev = image[sr][sc];
         if(prev==color) return image;
-        solve(image,sr,sc,prev,color);
-        return image;
-    }
-    public void solve(int[][] image,int r,int c,int prevcolor,int descolor){
         int n = image.length;
         int m = image[0].length;
-        if(r<0 || c<0 || r>=n || c>=m){
-            return;
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{sr,sc});
+        image[sr][sc] = color;
+       int[][] dirs = {{-1,0}, {1,0}, {0,-1}, {0,1}};
+
+        while (!q.isEmpty()) {
+            int[] cell = q.poll();
+            int r = cell[0], c = cell[1];
+
+            for (int[] d : dirs) {
+                int nr = r + d[0];
+                int nc = c + d[1];
+                if (nr >= 0 && nc >= 0 && nr < n && nc < m && image[nr][nc] == prev) {
+                    image[nr][nc] = color; 
+                    q.add(new int[]{nr, nc}); 
+                }
+            }
         }
-        if(image[r][c]!=prevcolor) return;
-        image[r][c] = descolor;
-        solve(image,r-1,c,prevcolor,descolor);
-        solve(image,r,c-1,prevcolor,descolor);
-        solve(image,r+1,c,prevcolor,descolor);
-        solve(image,r,c+1,prevcolor,descolor);
+
+        return image;
     }
 }
