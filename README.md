@@ -177,6 +177,7 @@ A collection of LeetCode question.
 | [0943-sum-of-subarray-minimums](https://github.com/Rohit-061/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0948-sort-an-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rohit-061/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0997-find-the-town-judge](https://github.com/Rohit-061/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-maximum-width-ramp](https://github.com/Rohit-061/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
@@ -348,6 +349,7 @@ A collection of LeetCode question.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rohit-061/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0997-find-the-town-judge](https://github.com/Rohit-061/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-061/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1149,4 +1151,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0948-sort-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Rohit-061/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
