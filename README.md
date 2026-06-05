@@ -425,6 +425,7 @@ A collection of LeetCode question.
 | [1188-brace-expansion-ii](https://github.com/Rohit-061/Leetcode/tree/master/1188-brace-expansion-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rohit-061/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Rohit-061/Leetcode/tree/master/1304-longest-happy-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rohit-061/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rohit-061/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/Rohit-061/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rohit-061/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -994,6 +995,7 @@ A collection of LeetCode question.
 | [0051-n-queens](https://github.com/Rohit-061/Leetcode/tree/master/0051-n-queens) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1188-brace-expansion-ii](https://github.com/Rohit-061/Leetcode/tree/master/1188-brace-expansion-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rohit-061/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rohit-061/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rohit-061/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rohit-061/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
