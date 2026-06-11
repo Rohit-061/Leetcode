@@ -122,6 +122,7 @@ A collection of LeetCode question.
 | [0046-permutations](https://github.com/Rohit-061/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rohit-061/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rohit-061/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rohit-061/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
@@ -461,6 +462,7 @@ A collection of LeetCode question.
 | [0042-trapping-rain-water](https://github.com/Rohit-061/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rohit-061/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rohit-061/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rohit-061/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Rohit-061/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
@@ -625,6 +627,7 @@ A collection of LeetCode question.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohit-061/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Rohit-061/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rohit-061/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohit-061/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Rohit-061/Leetcode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0376-wiggle-subsequence) |
