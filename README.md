@@ -422,6 +422,7 @@ A collection of LeetCode question.
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Rohit-061/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/Rohit-061/Leetcode/tree/master/0796-rotate-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0926-find-and-replace-pattern](https://github.com/Rohit-061/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Rohit-061/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -1157,6 +1158,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit-061/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Rohit-061/Leetcode/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Rohit-061/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
