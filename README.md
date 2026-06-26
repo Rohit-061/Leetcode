@@ -208,6 +208,7 @@ A collection of LeetCode question.
 | [1732-find-the-highest-altitude](https://github.com/Rohit-061/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rohit-061/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rohit-061/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1839-decode-xored-array](https://github.com/Rohit-061/Leetcode/tree/master/1839-decode-xored-array) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -655,6 +656,7 @@ A collection of LeetCode question.
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rohit-061/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Rohit-061/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Rohit-061/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -700,6 +702,7 @@ A collection of LeetCode question.
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rohit-061/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1891-count-pairs-of-nodes](https://github.com/Rohit-061/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -1176,6 +1179,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rohit-061/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Graph Theory
 |  |
 | ------- |
