@@ -91,6 +91,7 @@ A collection of LeetCode question.
 | [2685-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode question.
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rohit-061/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2784-check-if-array-is-good](https://github.com/Rohit-061/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohit-061/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rohit-061/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Rohit-061/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode question.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rohit-061/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2708-find-the-string-with-lcp](https://github.com/Rohit-061/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rohit-061/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rohit-061/Leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
@@ -605,6 +608,7 @@ A collection of LeetCode question.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-061/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rohit-061/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rohit-061/Leetcode/tree/master/2690-house-robber-iv) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Rohit-061/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/Rohit-061/Leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3427-special-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/3427-special-array-ii) |
@@ -889,6 +893,7 @@ A collection of LeetCode question.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohit-061/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Rohit-061/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/Rohit-061/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rohit-061/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
@@ -1192,4 +1197,5 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
