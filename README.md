@@ -71,6 +71,7 @@ A collection of LeetCode question.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohit-061/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/Rohit-061/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rohit-061/Leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Rohit-061/Leetcode/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/Rohit-061/Leetcode/tree/master/0684-redundant-connection) |
@@ -489,6 +490,7 @@ A collection of LeetCode question.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Rohit-061/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Rohit-061/Leetcode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Rohit-061/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rohit-061/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rohit-061/Leetcode/tree/master/0322-coin-change) |
@@ -544,6 +546,7 @@ A collection of LeetCode question.
 | [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Rohit-061/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Rohit-061/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Rohit-061/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rohit-061/Leetcode/tree/master/0523-continuous-subarray-sum) |
