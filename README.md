@@ -164,6 +164,7 @@ A collection of LeetCode question.
 | [0560-subarray-sum-equals-k](https://github.com/Rohit-061/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rohit-061/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/Rohit-061/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rohit-061/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rohit-061/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Rohit-061/Leetcode/tree/master/0735-asteroid-collision) |
@@ -608,6 +609,7 @@ A collection of LeetCode question.
 | [0278-first-bad-version](https://github.com/Rohit-061/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/Rohit-061/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Rohit-061/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Rohit-061/Leetcode/tree/master/0875-koko-eating-bananas) |
