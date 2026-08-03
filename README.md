@@ -18,6 +18,7 @@ A collection of LeetCode question.
 | [0543-diameter-of-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Rohit-061/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rohit-061/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Rohit-061/Leetcode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rohit-061/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -76,6 +77,7 @@ A collection of LeetCode question.
 | [0463-island-perimeter](https://github.com/Rohit-061/Leetcode/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/Rohit-061/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rohit-061/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Rohit-061/Leetcode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Rohit-061/Leetcode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Rohit-061/Leetcode/tree/master/0994-rotting-oranges) |
@@ -893,6 +895,7 @@ A collection of LeetCode question.
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rohit-061/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0743-network-delay-time](https://github.com/Rohit-061/Leetcode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Rohit-061/Leetcode/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/Rohit-061/Leetcode/tree/master/1184-car-pooling) |
@@ -1065,6 +1068,7 @@ A collection of LeetCode question.
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Rohit-061/Leetcode/tree/master/0743-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rohit-061/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/Rohit-061/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Linked List
@@ -1217,6 +1221,7 @@ A collection of LeetCode question.
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Rohit-061/Leetcode/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/Rohit-061/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -1228,4 +1233,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rohit-061/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rohit-061/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
