@@ -1,42 +1,32 @@
 class Solution {
+    int n;
     public boolean canPartition(int[] nums) {
+        n = nums.length;
         int sum = 0;
-        for (int i=0;i<nums.length;i++) sum += nums[i];
-
-        // If sum is odd, cannot partition
-        if (sum % 2 != 0) return false;
-
-        int target = sum / 2;
-        int n = nums.length;
-
-        int[][] dp = new int[n + 1][target + 1];
-        for (int i = 0; i <= n; i++) {
-            for (int j = 0; j <= target; j++) {
-                dp[i][j] = -1;
-            }
+        for(int num : nums){
+            sum += num;
         }
-
-        return solve(dp, n, target, nums);
+        if(sum%2 != 0) return false; 
+        int x = sum/2;
+        int[][] dp = new int[n+1][x+1];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dp[i],-1);
+        }
+        
+        return solve(nums,x,0,dp);
     }
-
-    static boolean solve(int[][] dp, int n, int sum, int[] nums) {
-        // Base cases
-        if (sum == 0) return true;
-        if (n == 0) return false;
-
-        if (dp[n][sum] != -1)
-            return dp[n][sum] == 1;
-
-        boolean result;
-        if (nums[n - 1] <= sum) {
-            boolean include = solve(dp, n - 1, sum - nums[n - 1], nums);
-            boolean exclude = solve(dp, n - 1, sum, nums);
-            result = include || exclude;
-        } else {
-            result = solve(dp, n - 1, sum, nums);
+    public boolean solve(int[] nums,int x,int i,int[][] dp){
+        if(x==0) return true;
+        if(i>=n) return false;
+        if(dp[i][x]!=-1) return dp[i][x]==1;
+        boolean take=false;
+        if(x>=nums[i]){
+            take = solve(nums,x-nums[i],i+1,dp);
         }
-
-        dp[n][sum] = result ? 1 : 0;
+        boolean skip = solve(nums,x,i+1,dp);
+        boolean result =  take || skip;
+        dp[i][x] = result?1:0;
         return result;
+        
     }
 }
