@@ -171,6 +171,7 @@ A collection of LeetCode question.
 | [0724-find-pivot-index](https://github.com/Rohit-061/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rohit-061/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Rohit-061/Leetcode/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/Rohit-061/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Rohit-061/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rohit-061/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -367,6 +368,7 @@ A collection of LeetCode question.
 | [0560-subarray-sum-equals-k](https://github.com/Rohit-061/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rohit-061/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0740-delete-and-earn](https://github.com/Rohit-061/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Rohit-061/Leetcode/tree/master/0768-partition-labels) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -515,6 +517,7 @@ A collection of LeetCode question.
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rohit-061/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0740-delete-and-earn](https://github.com/Rohit-061/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
