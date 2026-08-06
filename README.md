@@ -1257,4 +1257,8 @@ A collection of LeetCode question.
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit-061/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
