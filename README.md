@@ -163,6 +163,7 @@ A collection of LeetCode question.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rohit-061/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Rohit-061/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Rohit-061/Leetcode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Rohit-061/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Rohit-061/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit-061/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -518,6 +519,7 @@ A collection of LeetCode question.
 | [0410-split-array-largest-sum](https://github.com/Rohit-061/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit-061/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit-061/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rohit-061/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode question.
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Rohit-061/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rohit-061/Leetcode/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1188-brace-expansion-ii](https://github.com/Rohit-061/Leetcode/tree/master/1188-brace-expansion-ii) |
@@ -1248,8 +1251,10 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit-061/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit-061/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
