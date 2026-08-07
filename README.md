@@ -1266,4 +1266,8 @@ A collection of LeetCode question.
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
