@@ -169,6 +169,7 @@ A collection of LeetCode question.
 | [0560-subarray-sum-equals-k](https://github.com/Rohit-061/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rohit-061/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rohit-061/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Rohit-061/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rohit-061/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rohit-061/Leetcode/tree/master/0733-flood-fill) |
@@ -523,6 +524,7 @@ A collection of LeetCode question.
 | [0509-fibonacci-number](https://github.com/Rohit-061/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rohit-061/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rohit-061/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Rohit-061/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -865,10 +867,12 @@ A collection of LeetCode question.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3435-block-placement-queries](https://github.com/Rohit-061/Leetcode/tree/master/3435-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Rohit-061/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/Rohit-061/Leetcode/tree/master/3435-block-placement-queries) |
 ## Divide and Conquer
@@ -1261,4 +1265,5 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
