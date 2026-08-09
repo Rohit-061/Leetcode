@@ -207,6 +207,7 @@ A collection of LeetCode question.
 | [1183-statistics-from-a-large-sample](https://github.com/Rohit-061/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1184-car-pooling](https://github.com/Rohit-061/Leetcode/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1288-remove-covered-intervals](https://github.com/Rohit-061/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rohit-061/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-061/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -743,6 +744,7 @@ A collection of LeetCode question.
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/Rohit-061/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Rohit-061/Leetcode/tree/master/1184-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/Rohit-061/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rohit-061/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/Rohit-061/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
