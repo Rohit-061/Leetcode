@@ -5,9 +5,11 @@ class Solution {
         for(int hh = 0;hh<=11;hh++){
             for(int mm = 0;mm<=59;mm++){
                 if(Integer.bitCount(hh)+Integer.bitCount(mm) == turnedOn){
-                    String hour = String.valueOf(hh);
-                    String minute = (mm < 10 ? "0" : "") + mm;
-                    res.add(hour + ":" + minute);
+                    if(mm<10){
+                        res.add(hh + ":0" + mm);
+                    }else{
+                        res.add(hh + ":" + mm);
+                    }
                 }
             }
         }
