@@ -136,6 +136,7 @@ A collection of LeetCode question.
 | [0064-minimum-path-sum](https://github.com/Rohit-061/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rohit-061/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Rohit-061/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohit-061/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohit-061/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -779,6 +780,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Rohit-061/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rohit-061/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rohit-061/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Rohit-061/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode question.
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Rohit-061/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rohit-061/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Rohit-061/Leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Rohit-061/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1079-letter-tile-possibilities) |
