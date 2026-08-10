@@ -786,6 +786,7 @@ A collection of LeetCode question.
 | [0260-single-number-iii](https://github.com/Rohit-061/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rohit-061/Leetcode/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/Rohit-061/Leetcode/tree/master/0401-binary-watch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rohit-061/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1839-decode-xored-array](https://github.com/Rohit-061/Leetcode/tree/master/1839-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rohit-061/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode question.
 | [0022-generate-parentheses](https://github.com/Rohit-061/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Rohit-061/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rohit-061/Leetcode/tree/master/0051-n-queens) |
+| [0401-binary-watch](https://github.com/Rohit-061/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Rohit-061/Leetcode/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-061/Leetcode/tree/master/1160-letter-tile-possibilities) |
