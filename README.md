@@ -29,6 +29,7 @@ A collection of LeetCode question.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-061/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Rohit-061/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rohit-061/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rohit-061/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -90,6 +91,7 @@ A collection of LeetCode question.
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rohit-061/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1558-course-schedule-iv](https://github.com/Rohit-061/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rohit-061/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-061/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rohit-061/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -223,6 +225,7 @@ A collection of LeetCode question.
 | [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rohit-061/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-061/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Rohit-061/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rohit-061/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -339,6 +342,7 @@ A collection of LeetCode question.
 | [1094-matrix-cells-in-distance-order](https://github.com/Rohit-061/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rohit-061/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rohit-061/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-cat-and-mouse-ii](https://github.com/Rohit-061/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rohit-061/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Rohit-061/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -639,6 +643,7 @@ A collection of LeetCode question.
 | [1185-find-in-mountain-array](https://github.com/Rohit-061/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rohit-061/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1891-count-pairs-of-nodes](https://github.com/Rohit-061/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rohit-061/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2430-number-of-excellent-pairs](https://github.com/Rohit-061/Leetcode/tree/master/2430-number-of-excellent-pairs) |
@@ -925,6 +930,7 @@ A collection of LeetCode question.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohit-061/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Rohit-061/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rohit-061/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2023-design-movie-rental-system](https://github.com/Rohit-061/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rohit-061/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rohit-061/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -1252,6 +1258,7 @@ A collection of LeetCode question.
 ## Union-Find
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rohit-061/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohit-061/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Queue
@@ -1262,6 +1269,7 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rohit-061/Leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Rohit-061/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Knapsack Problem
 |  |
 | ------- |
