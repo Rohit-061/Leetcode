@@ -1,23 +1,31 @@
 class Solution {
-    static String map[]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+    List<String> result = new ArrayList<>();
     public List<String> letterCombinations(String digits) {
-        List<String> list=new ArrayList<>();
-        if(digits.length()==0){
-            return list;
-        }
-        combination(digits,list,"");
-        return list;
+        
+        if(digits.length() == 0) return new ArrayList<>();
+        HashMap<Character,String> map = new HashMap<>();
+        map.put('2',"abc");
+        map.put('3',"def");
+        map.put('4',"ghi");
+        map.put('5',"jkl");
+        map.put('6',"mno");
+        map.put('7',"pqrs");
+        map.put('8',"tuv");
+        map.put('9',"wxyz");
+        String temp = "";
+        
+        solve(0,digits,temp,map);
+        return result;
     }
-    public static void combination(String str, List<String> list,String ans){
-        if(str.length()==0){
-            list.add(ans);
+    public void solve(int idx,String digits,String temp,HashMap<Character,String> map){
+        if(idx>=digits.length()){
+            result.add(temp);
             return;
         }
-        char ch=str.charAt(0);
-        int num=ch-'0';
-        String press=map[num];
-        for(int i=0;i<press.length();i++){
-            combination(str.substring(1),list,ans+press.charAt(i));
+        char ch = digits.charAt(idx);
+        String str = map.get(ch);
+        for(int i=0;i<str.length();i++){
+           solve(idx + 1, digits, temp + str.charAt(i), map);
         }
     }
 }
