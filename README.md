@@ -158,6 +158,7 @@ A collection of LeetCode question.
 | [0239-sliding-window-maximum](https://github.com/Rohit-061/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rohit-061/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rohit-061/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Rohit-061/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rohit-061/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -973,6 +974,7 @@ A collection of LeetCode question.
 | [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rohit-061/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-061/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Rohit-061/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Rohit-061/Leetcode/tree/master/0455-assign-cookies) |
