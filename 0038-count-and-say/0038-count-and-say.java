@@ -1,0 +1,18 @@
+class Solution {
+    public String countAndSay(int n) {
+        if(n==1) return "1";
+        String say = countAndSay(n-1);
+        String res = "";
+        int i=0;
+        while(i<say.length()){
+            char ch = say.charAt(i);
+            int count = 0;
+            while(i<say.length() && say.charAt(i) == ch){
+                count++;
+                i++;
+            }
+            res += Integer.toString(count) + ch;
+        }
+        return res;
+    }
+}
