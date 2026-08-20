@@ -1,5 +1,6 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
+        if(s.length()!=t.length()) return false;
         // HashMap<Character,Character> StoT = new HashMap<>();
         // HashMap<Character,Character> TtoS = new HashMap<>();
         int[] StoT = new int[128];
