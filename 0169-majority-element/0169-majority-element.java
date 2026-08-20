@@ -6,10 +6,11 @@ class Solution {
             if(nums[i] == num){
                 count++;
             }
-            else if(nums[i]!=num && count==0){
+            if(nums[i]!= num && count == 0){
                 num = nums[i];
                 count = 1;
-            }else if (nums[i]!=num && count!=0){
+            }
+            if(nums[i]!=num && count!=0){
                 count--;
             }
         }
