@@ -7,10 +7,11 @@ class Solution {
         int[] TtoS = new int[128];
         Arrays.fill(StoT,-1);
         Arrays.fill(TtoS,-1);
-        
+        StringBuilder sb1 = new StringBuilder(s);
+        StringBuilder tb1 = new StringBuilder(t); 
         for(int i=0;i<s.length();i++){
-            char s1 = s.charAt(i);
-            char t1 = t.charAt(i);
+            char s1 = sb1.charAt(i);
+            char t1 = tb1.charAt(i);
 
             if(StoT[s1]==-1){
                 StoT[s1] = t1;
