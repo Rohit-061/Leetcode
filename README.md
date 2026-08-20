@@ -375,6 +375,7 @@ A collection of LeetCode question.
 | [0141-linked-list-cycle](https://github.com/Rohit-061/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-061/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rohit-061/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Rohit-061/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rohit-061/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rohit-061/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
@@ -582,6 +583,7 @@ A collection of LeetCode question.
 | [0066-plus-one](https://github.com/Rohit-061/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rohit-061/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Rohit-061/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rohit-061/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Rohit-061/Leetcode/tree/master/0279-perfect-squares) |
@@ -982,6 +984,7 @@ A collection of LeetCode question.
 | [0088-merge-sorted-array](https://github.com/Rohit-061/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rohit-061/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-061/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Rohit-061/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rohit-061/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0392-is-subsequence) |
@@ -1313,4 +1316,8 @@ A collection of LeetCode question.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohit-061/Leetcode/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rohit-061/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
