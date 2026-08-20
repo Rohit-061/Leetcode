@@ -376,6 +376,7 @@ A collection of LeetCode question.
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-061/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rohit-061/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohit-061/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Rohit-061/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rohit-061/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rohit-061/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-061/Leetcode/tree/master/0268-missing-number) |
@@ -457,6 +458,7 @@ A collection of LeetCode question.
 | [0067-add-binary](https://github.com/Rohit-061/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Rohit-061/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rohit-061/Leetcode/tree/master/0091-decode-ways) |
+| [0205-isomorphic-strings](https://github.com/Rohit-061/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rohit-061/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rohit-061/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rohit-061/Leetcode/tree/master/0392-is-subsequence) |
